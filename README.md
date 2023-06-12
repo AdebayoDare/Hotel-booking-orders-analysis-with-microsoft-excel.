@@ -9,11 +9,11 @@ This project analyzed the Online Booking Orders to help a hotel management revie
 - [Project Task](#project-task)
 - [Data](#data)
 - [Data Cleaning](#data-cleaning)
-- [Analysis Sheet](#analysis-sheet)
-- [Project Report](#some-visualizations)
+- [Project Report / Excel workbook](#some-visualizations)
 
 
 ## Project Description
+
 
 
 ## Project Task
@@ -24,7 +24,6 @@ This project analyzed the Online Booking Orders to help a hotel management revie
 4. Top Hotels by Booking and Rating?
 5. Analyze the data to provide insights on most preferred hotel by Customers and Hotels with high user rating.
 
-![image](https://github.com/AdebayoDare/Hotel-booking-orders-analysis-with-microsoft-excel./assets/93272487/78c68011-52e7-482d-8312-6be4cae8cce3)
 
 
 ## Data
@@ -34,17 +33,9 @@ This project analyzed the Online Booking Orders to help a hotel management revie
 ## Data Cleaning
 
 
+## Project Report / Excel workbook
 
-## Analysis Sheet
-
-
-
-
-
-
-
-
-## Project Report
+The excel work book can be downloaded [here]([url](https://docs.google.com/spreadsheets/d/1rZ-Th1m7ITVFHSAoqG9BdXscGcru2tGo/edit?usp=drive_link&ouid=107186238420796809487&rtpof=true&sd=true))
 
 ![image](https://github.com/AdebayoDare/Hotel-booking-orders-analysis-with-microsoft-excel./assets/93272487/5c869b1c-dafe-4717-ad17-b3c33d0762a9)
 
