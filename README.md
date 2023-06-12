@@ -58,6 +58,12 @@ The second sheet is a dictionary that decribes each of the columns.
 
 ## Data Cleaning
 
+Some of the tasks carried out while cleaning the data are shown below:
+
+- Removal of duplicate rows
+- Removal of empty rows and columns
+- 
+
 
 ## Project Report
 
