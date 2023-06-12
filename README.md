@@ -38,7 +38,7 @@ The outcomes of this project empower businesses to make informed decisions and d
 
 ## Project Task
 
-1. To provide insights on Top countries Customers prefer to visit. Thji
+1. To provide insights on Top countries Customers prefer to visit.
 2. Customers profile and demographics?
 3. Analyze the data to provide insights demographics of the Customers such as the Age groups, Gender and location.
 4. Top Hotels by Booking and Rating?
@@ -48,7 +48,13 @@ The outcomes of this project empower businesses to make informed decisions and d
 
 ## Data
 
-The data for this project is a single excel file with the order details
+The data for this project is a single excel file with the order details with two sheets. 
+
+The first sheet is for the orders database with columns,Booking ID, 	Date of Booking,	Year,	Time,	Customer ID,	Gender,	Age,	Origin Country,	State	Location	,Destination Country,	Destination City No. Of People, check-in date,	No. Of Days,	Check-Out Date,	Rooms	,Hotel Name,	Hotel Rating,	Payment Mode,	Bank Name,	No. Of Days,	Rooms	Booking Price[$],	Discount,	VAT and	Profit Margin.
+
+The second sheet is a dictionary that decribes each of the columns.
+
+
 
 ## Data Cleaning
 
