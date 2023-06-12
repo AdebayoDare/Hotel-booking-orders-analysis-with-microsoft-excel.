@@ -50,7 +50,7 @@ The outcomes of this project empower businesses to make informed decisions and d
 
 The data for this project is a single excel file with the order details with two sheets. 
 
-The first sheet is for the orders database with columns,Booking ID, 	Date of Booking,	Year,	Time,	Customer ID,	Gender,	Age,	Origin Country,	State	Location	,Destination Country,	Destination City No. Of People, check-in date,	No. Of Days,	Check-Out Date,	Rooms	,Hotel Name,	Hotel Rating,	Payment Mode,	Bank Name,	No. Of Days,	Rooms	Booking Price[$],	Discount,	VAT and	Profit Margin.
+The first sheet is for the orders database with columns,Booking ID, 	Date of Booking,	Year,	Time,	Customer ID,	Gender,	Age,	Origin Country,	State	Location	,Destination Country,	Destination City Number Of People, Check-in Date,	Number Of Days,	Check-Out Date,	Rooms	,Hotel Name,	Hotel Rating,	Payment Mode,	Bank Name,	Number. Of Days,	Rooms	Booking Price[$],	Discount,	VAT and	Profit Margin.
 
 The second sheet is a dictionary that decribes each of the columns.
 
