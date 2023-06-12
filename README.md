@@ -9,7 +9,7 @@ This project analyzed the Online Booking Orders to help a hotel management revie
 - [Project Task](#project-task)
 - [Data](#data)
 - [Data Cleaning](#data-cleaning)
-- [Project Report / Excel workbook](#Project-Report-Excel-workbook)
+- [Project Report](#Project-Report)
 
 
 ## Project Description
@@ -53,7 +53,7 @@ The outcomes of this project empower businesses to make informed decisions and d
 ## Data Cleaning
 
 
-## Project Report / Excel workbook
+## Project Report
 
 The excel work book can be downloaded [here](https://docs.google.com/spreadsheets/d/1rZ-Th1m7ITVFHSAoqG9BdXscGcru2tGo/edit?usp=drive_link&ouid=107186238420796809487&rtpof=true&sd=true).
 
