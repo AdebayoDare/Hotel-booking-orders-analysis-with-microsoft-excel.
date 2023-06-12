@@ -48,7 +48,7 @@ The outcomes of this project empower businesses to make informed decisions and d
 
 ## Data
 
-
+The data for this project is a single excel file with the order details
 
 ## Data Cleaning
 
