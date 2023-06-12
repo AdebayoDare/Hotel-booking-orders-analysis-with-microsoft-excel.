@@ -63,6 +63,8 @@ The second sheet is a dictionary that decribes each of the columns.
 
 The excel work book can be downloaded [here](https://docs.google.com/spreadsheets/d/1rZ-Th1m7ITVFHSAoqG9BdXscGcru2tGo/edit?usp=drive_link&ouid=107186238420796809487&rtpof=true&sd=true). In addition to the existing sheets, a microsoft excel sheet was created for the analysis. Another microsoft excel sheet was created for the report (dashboard). A sheet was created to aid the VLOOKUP used for the 'quater slicers' on the report.
 
+The image below shows how the report looks like. This also be downloaded [here](https://docs.google.com/spreadsheets/d/1rZ-Th1m7ITVFHSAoqG9BdXscGcru2tGo/edit?usp=drive_link&ouid=107186238420796809487&rtpof=true&sd=true) for better interactions.
+
 ![image](https://github.com/AdebayoDare/Hotel-booking-orders-analysis-with-microsoft-excel./assets/93272487/5c869b1c-dafe-4717-ad17-b3c33d0762a9)
 
 
