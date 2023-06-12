@@ -62,7 +62,10 @@ Some of the tasks carried out while cleaning the data are shown below:
 
 - Removal of duplicate rows
 - Removal of empty rows and columns
-- 
+- Removal of subtotals in the VAT , profit margin and booking price columns
+- Creating just one row of header
+- Creating a single column for the dates
+- Removing obstructions, like comments on the excel database.
 
 
 ## Project Report
