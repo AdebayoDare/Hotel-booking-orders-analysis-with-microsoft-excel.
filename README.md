@@ -10,6 +10,7 @@ This project analyzed the Online Booking Orders to help a hotel management revie
 - [Data](#data)
 - [Data Cleaning](#data-cleaning)
 - [Project Report](#Project-Report)
+- [Disclaimer](#disclaimer)
 
 
 ## Project Description
@@ -75,6 +76,9 @@ The excel work book can be downloaded [here](https://docs.google.com/spreadsheet
 The image below shows how the report looks like. This also be downloaded [here](https://docs.google.com/spreadsheets/d/1rZ-Th1m7ITVFHSAoqG9BdXscGcru2tGo/edit?usp=drive_link&ouid=107186238420796809487&rtpof=true&sd=true) for better interactions.
 
 ![image](https://github.com/AdebayoDare/Hotel-booking-orders-analysis-with-microsoft-excel./assets/93272487/5c869b1c-dafe-4717-ad17-b3c33d0762a9)
+
+## Disclaimer
+The data provided in the accompanying Excel file is for illustrative and educational purposes only. It is important to note that this data is entirely hypothetical and does not represent actual or real-world information.
 
 
 
